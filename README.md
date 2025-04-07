@@ -8,4 +8,4 @@ Hei, olen **Joonas Juntunen**, Junior Ohjelmistokehittäjä.
 - **Kehykset:** Vue.js, Bootstrap, jQuery  
 
 
-🌐 Katso portfolioni: https://geronimo.okol.org/~joojun/
+🌐 Katso portfolioni: https://hamppi990.github.io/portfolio/
