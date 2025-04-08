@@ -4,7 +4,7 @@ Hei, olen **Joonas Juntunen**, Junior Ohjelmistokehittäjä.
 💻 Harrastan ohjelmointia ja opiskelen web-kehityksen parissa.  
 
 ### 🔧 Taitoni  
-- **Kielet:** HTML, CSS, JavaScript, PHP, MySQL, Python, C#, C  
+- **Kielet:** HTML, CSS, JavaScript, PHP, MySQL, Python, C#, C, Git
 - **Kehykset:** Vue.js, Bootstrap, jQuery  
 
 
