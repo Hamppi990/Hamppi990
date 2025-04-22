@@ -1,11 +1,10 @@
 # 👋 Tervetuloa profiiliini!  
 
-Hei, olen **Joonas Juntunen**, Junior Ohjelmistokehittäjä.  
-💻 Harrastan ohjelmointia ja opiskelen web-kehityksen parissa.  
+Hei, olen **Joonas Juntunen**, Ohjelmistokehittäjä opiskelija.  
 
 ### 🔧 Taitoni  
-- **Kielet:** HTML, CSS, JavaScript, PHP, MySQL, Python, C#, C, Git
-- **Kehykset:** Vue.js, Bootstrap, jQuery  
+- **Kielet:** HTML, CSS, JavaScript, PHP, MySQL, Python, C#, C
+- **Kehykset:** Vue.js, Bootstrap, jQuery, React.js
 
 
 🌐 Katso portfolioni: https://hamppi990.github.io/portfolio/
