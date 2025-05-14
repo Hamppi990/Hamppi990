@@ -1,6 +1,6 @@
 # 👋 Tervetuloa profiiliini!  
 
-Hei, olen **Joonas Juntunen**, Ohjelmistokehittäjä opiskelija.  
+Hei, olen **Joonas Juntunen**, Ohjelmistokehittäjä.  
 
 ### 🔧 Taitoni  
 - **Kielet:** HTML, CSS, JavaScript, PHP, MySQL, Python, C#, C
